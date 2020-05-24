@@ -1,0 +1,59 @@
+.head
+{
+	background:red;
+	font-size:300%;
+	text-align:right;
+	height:100px;
+}
+.asider
+{
+		background:steelblue;
+	font-size:300%;
+	text-align:right;
+	padding:10%;
+	border:-10px black solid;
+}
+.asidel
+{
+		background:yellow;
+	font-size:300%;
+	text-align:right;
+	padding:10%;
+}
+.para1
+{
+		background:brown;
+	font-size:300%;
+	text-align:right;
+	padding:10%;
+}
+.table
+{
+		background:purple;
+	font-size:300%;
+	text-align:right;
+	padding:30%;
+}
+.para3
+{
+		background:blue;
+	font-size:300%;
+	text-align:right;
+	padding:30%;
+}
+.foot
+{
+		background:green;
+	font-size:300%;
+	text-align:right;
+	padding:30%;
+}
+
+.foot
+{
+	display:block;
+}
+.img 
+{
+	display:inline;
+}
